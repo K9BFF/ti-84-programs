@@ -1,0 +1,8 @@
+Disp "FOR B"
+Prompt A
+Prompt C
+A²→B
+C²→D
+D-B→E
+√(E)→F
+Disp F
