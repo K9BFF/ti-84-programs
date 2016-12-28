@@ -12,16 +12,16 @@ Repository of TI-84 Programs for use on TI-84 Calculators
 ##Setup
 +If you don't already have TI-Connect on your computer, download it [here](https://education.ti.com/en/us/products/computer_software/connectivity-software/ti-connect-software/tabs/overview#!show=0)
 
-+Plug your TI-84 into your computer.
+1. Plug your TI-84 into your computer.
 
-+Open TI-Connect
+2. Open TI-Connect
 
-+Select "Send To TI Device"
+3. Select "Send To TI Device"
 
-+Click "Browse"
+4. Click "Browse"
 
-+Locate your .8xp file
+5. Locate your .8xp file
 
-+Click "Send to Device"
+6. Click "Send to Device"
 
 wip
