@@ -28,4 +28,4 @@ Repository of TI-84 Programs for use on TI-84 Calculators
 
 7. Click "Send to Device"
 
-Once the transfer is complete, you can use the programs by clicking on [prgm] and selecting the program of your choosing.
+Once the transfer is complete, you can use the programs by pressing [prgm] and selecting the program of your choosing.
